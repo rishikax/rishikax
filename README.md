@@ -2,10 +2,10 @@
 
 Passionate Business Analytics graduate student with a background in finance. Experienced in quality and financial analysis roles. Skilled in SQL, Tableau, Python, R, and machine learning.
 
-  - ✨ Polishing my Machine Learning, Deep Learning and data science skills.
-  - 💬 I’m looking to collaborate on Projects that are Challanging and Innovative,
-  - 📫 reach me out on gmail /Linkedin
-  - ⚡ I love playing games, reading novels, mangas and coding.
+  - ✨ Polishing my Machine Learning, Deep Learning, and data science skills.
+  - 💬 I’m looking to collaborate on Projects that are challenging and Innovative,
+  - 📫 reach me out on Gmail /Linkedin
+  - ⚡ I love reading novels, traveling, and coding.
 
 
 <picture>
